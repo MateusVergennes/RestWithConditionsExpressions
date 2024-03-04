@@ -1,0 +1,62 @@
+[
+  {
+    "name": "var1",
+    "typeVariable": "Primitive",
+    "value": "5",
+    "executionOrder": 0
+  },
+  {
+    "name": "var2",
+    "typeVariable": "Primitive",
+    "value": "4",
+    "executionOrder": 0
+  },
+  {
+    "name": "var3",
+    "typeVariable": "Primitive",
+    "value": "45",
+    "executionOrder": 0
+  },
+  {
+    "name": "var4",
+    "typeVariable": "Primitive",
+    "value": "31",
+    "executionOrder": 0
+  },
+  {
+    "name": "var5",
+    "typeVariable": "Primitive",
+    "value": "103",
+    "executionOrder": 0
+  },
+  {
+    "name": "var6",
+    "typeVariable": "Primitive",
+    "value": "59",
+    "executionOrder": 0
+  },
+  {
+    "name": "var7",
+    "typeVariable": "Primitive",
+    "value": "78",
+    "executionOrder": 0
+  },
+  {
+    "name": "var8",
+    "typeVariable": "Conditionals",
+    "value": "(var7*5)",
+    "executionOrder": 0
+  },
+  {
+    "name": "var9",
+    "typeVariable": "Conditionals",
+    "value": "(var8>var5) ? var8*3 : var8/2",
+    "executionOrder": 1
+  },
+  {
+    "name": "var10",
+    "typeVariable": "Conditionals",
+    "value": "(var8>var1) ? var9 : var1",
+    "executionOrder": 2
+  }
+]

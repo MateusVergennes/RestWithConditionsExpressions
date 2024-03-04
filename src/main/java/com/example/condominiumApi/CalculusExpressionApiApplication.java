@@ -8,9 +8,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @OpenAPIDefinition(info = @Info(title = "Fast Assembly API", version = "1", description = "API  p/ Fast Assembly"), servers = { @Server(url = "/") })
-public class CondominiumApiApplication {
+public class CalculusExpressionApiApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(CondominiumApiApplication.class, args);
+		SpringApplication.run(CalculusExpressionApiApplication.class, args);
 	}
 }
 
